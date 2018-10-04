@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>:3</title>
+  </head>
+  <body>
+  <hl>sintaxis</hl>
+  <ul>
+       <li>valores</li>
+       <script>
+          var a=8
+          var b=2
+          var c=7
+          var d=4
+          var f=a+b
+          var g=c-d  //baia//
+          var m=d*a
+          var p=c/b
+</script>
+      <body>
+<script>
+alert(f)
+alert(g)
+alert(m)
+alert(p)
+</script>
+
+      </body>
+    </html>
+
+  </body>
+</html>

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>comentario</title>
+  </head>
+  <body>
+  <script>//comentario de texto//
+
+  /*otro comentario
+  que cosas/*
+
+  </script>
+  </body>
+</html>
