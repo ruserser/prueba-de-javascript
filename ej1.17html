@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <script>
+    var correo = prompt("cual es tu correo?")
+    var contraseña = prompt("cual es tu contraseña?")
+</script>
+ 
+     <p>
+<script>
+document.write(correo)
+    </script>
+  </p>
+  <p>
+    <script>
+    document.write(contraseña)
+    </script>
+  </p>
+  </body>
+</html>

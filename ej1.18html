@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+      <meta charset="utf-8">
+      <title> </title>
+    </head>
+    <body>
+      <script>
+      alert("Bienvenid@ a nuestra tienda.Naranjas precio de 1.30€/kg.")
+      var peso
+      peso=prompt ("¿Cuántos kilogramos desea?")
+      var precio = (peso*1.30)
+      document.write("El precio de su compra es: " + precio +  "€. Gracias por su visita");
+      </script>
+    </body>
+</html>

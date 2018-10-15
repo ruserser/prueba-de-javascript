@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+
+  <script>
+var a = parseInt(prompt("escribe un numero"))
+var b = parseInt(prompt("uno mas"))
+
+var f = (a+b);
+var p = (a-b);
+var t = (a*b);
+var m = (a/b);
+</script>
+<p>
+<script>
+document.write(f);
+</script>
+</p>
+<p>
+  <script>
+document.write(p);
+  </script>
+</p>
+<p>
+  <script>
+document.write(t);
+  </script>
+</p>
+<p>
+  <script>
+document.write(m);
+  </script>
+</p>
+  </body>
+</html>

@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <script>
+     var notaA = parseInt(prompt("Cual es tu primera nota?"));
+     var notaB = parseInt(prompt("Cual es tu segunda nota?"));
+     var notaC = parseInt(prompt("Cual es tu tercera nota?"));
+
+     var notaF =(notaA + notaB + notaC);
+
+  alert(notaF/3);
+   </script>
+
+  </body>
+</html>
